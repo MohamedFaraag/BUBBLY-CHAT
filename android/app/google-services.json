@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193866952899",
+    "project_id": "bubbly-8b5e5",
+    "storage_bucket": "bubbly-8b5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193866952899:android:19eebb7d599b283cc9f276",
+        "android_client_info": {
+          "package_name": "com.farag.bubbly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193866952899-vnvq1e13elij9eigf30emtpugo48vhcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmb8_QC0Q2fcRzbavxlJSJCFj-BKSd94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193866952899-vnvq1e13elij9eigf30emtpugo48vhcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
